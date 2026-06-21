@@ -1,0 +1,6 @@
+{
+  "name": "AutoCheck",
+  "description": "Проверка автомобилей по VIN и госномеру в России и Таджикистане с получением подробных отчетов по ДТП, залогам и ограничениям.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
